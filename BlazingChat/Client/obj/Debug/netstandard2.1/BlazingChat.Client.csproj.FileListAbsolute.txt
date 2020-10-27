@@ -165,9 +165,6 @@ C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.RazorComponent.input.cache
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
@@ -177,9 +174,6 @@ C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.TagHelpers.output.cache
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.RazorCoreGenerate.cache
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
@@ -187,7 +181,6 @@ C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.RazorTargetAssemblyInfo.cache
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.csproj.CopyComplete
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\Q3WbYlkIATKV-7EQB-MqAXwRmiGSZbeE3uzUXcAHXl0=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -240,14 +233,12 @@ C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\eVvdD2TQxqMCgpz2EeGTxkVWSOXQ7wXC-Az89l2H4nc=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\OHWyfdxtce1By7GAWti8ebfgx7FvkjEscHW_ZAekUzk=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\9gYmosRqOXk6q8KXrOzmdcbd_k1Xs2J37hGE2RXyQlo=.hash
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazingChat.Client.dll.gz
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
@@ -376,4 +367,13 @@ C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.pdb
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\CH62QeAjONnQpFxKpuejxRYzao5l-NADM4j7colTHPk=.hash
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Contacts.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Profile.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Settings.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\Contacts.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\Profile.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\Razor\Pages\Settings.razor.g.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\0bSab35hbLovf5RJyvF0N6rmchYt0iHdR82sSjkDx6c=.hash
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\KG-zwKWu5Zgp7g9wpBpo26zEt7CGzclt8g59U20XeHU=.hash
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\JVOXh4T3HO4fJ28r_WFgyAUmGWiLClygoTJAhubcMGo=.hash
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\v_qC_TnQOShxR-jXMOy6Qg4pECzcQ88sYU_o2b_Wqbw=.hash

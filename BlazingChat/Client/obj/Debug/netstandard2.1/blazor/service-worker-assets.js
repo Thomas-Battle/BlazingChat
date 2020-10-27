@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-Q3WbYlkIATKV\/7EQB\/MqAXwRmiGSZbeE3uzUXcAHXl0=",
+      "hash": "sha256-0bSab35hbLovf5RJyvF0N6rmchYt0iHdR82sSjkDx6c=",
       "url": "_framework\/_bin\/BlazingChat.Client.dll"
     },
     {
@@ -277,7 +277,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-eVvdD2TQxqMCgpz2EeGTxkVWSOXQ7wXC\/Az89l2H4nc=",
+      "hash": "sha256-KG\/zwKWu5Zgp7g9wpBpo26zEt7CGzclt8g59U20XeHU=",
       "url": "_framework\/_bin\/BlazingChat.Client.pdb"
     },
     {
@@ -301,7 +301,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-9gYmosRqOXk6q8KXrOzmdcbd+k1Xs2J37hGE2RXyQlo=",
+      "hash": "sha256-JVOXh4T3HO4fJ28r+WFgyAUmGWiLClygoTJAhubcMGo=",
       "url": "_framework\/blazor.boot.json"
     }
   ],

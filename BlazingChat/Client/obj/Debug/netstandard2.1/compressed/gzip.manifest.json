@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Q3WbYlkIATKV-7EQB-MqAXwRmiGSZbeE3uzUXcAHXl0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0bSab35hbLovf5RJyvF0N6rmchYt0iHdR82sSjkDx6c=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Client.dll.gz"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eVvdD2TQxqMCgpz2EeGTxkVWSOXQ7wXC-Az89l2H4nc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KG-zwKWu5Zgp7g9wpBpo26zEt7CGzclt8g59U20XeHU=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Client.pdb.gz"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9gYmosRqOXk6q8KXrOzmdcbd_k1Xs2J37hGE2RXyQlo=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\JVOXh4T3HO4fJ28r_WFgyAUmGWiLClygoTJAhubcMGo=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\CH62QeAjONnQpFxKpuejxRYzao5l-NADM4j7colTHPk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v_qC_TnQOShxR-jXMOy6Qg4pECzcQ88sYU_o2b_Wqbw=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

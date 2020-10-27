@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BlazingChat.Client.dll": "sha256-Q3WbYlkIATKV\/7EQB\/MqAXwRmiGSZbeE3uzUXcAHXl0=",
+      "BlazingChat.Client.dll": "sha256-0bSab35hbLovf5RJyvF0N6rmchYt0iHdR82sSjkDx6c=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "BlazingChat.Client.pdb": "sha256-eVvdD2TQxqMCgpz2EeGTxkVWSOXQ7wXC\/Az89l2H4nc=",
+      "BlazingChat.Client.pdb": "sha256-KG\/zwKWu5Zgp7g9wpBpo26zEt7CGzclt8g59U20XeHU=",
       "BlazingChat.Shared.pdb": "sha256-OHWyfdxtce1By7GAWti8ebfgx7FvkjEscHW+ZAekUzk="
     },
     "runtime": {
