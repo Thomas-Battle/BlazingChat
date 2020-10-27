@@ -1,0 +1,9 @@
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\bin\Debug\netstandard2.1\BlazingChat.Shared.deps.json
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\bin\Debug\netstandard2.1\BlazingChat.Shared.dll
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\bin\Debug\netstandard2.1\BlazingChat.Shared.pdb
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.csprojAssemblyReference.cache
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.AssemblyInfo.cs
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.dll
+C:\Users\Dell\source\Repos\BlazingChat\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.pdb
