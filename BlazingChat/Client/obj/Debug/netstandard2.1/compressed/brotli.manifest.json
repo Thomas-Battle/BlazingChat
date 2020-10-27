@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0bSab35hbLovf5RJyvF0N6rmchYt0iHdR82sSjkDx6c=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_fb1k9jZ8FrzJ2Ar3mwKhjhPeBZEzP-2kx3XiYvLYKQ=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Client.dll.br"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\siag32sJQcIyaKx0KWO-yGZd1vAC2KGgQwTfMEBoZWU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Z-cp5cODxEUPfxp3-AOkD5Xc0kmUIEyQyTzs-cz8cGc=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Shared.dll.br"
     },
@@ -266,12 +266,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KG-zwKWu5Zgp7g9wpBpo26zEt7CGzclt8g59U20XeHU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pyOZ6IXtLMu3qm5EEqCAnC4NstILOWQ6rjmGSjPwWq4=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OHWyfdxtce1By7GAWti8ebfgx7FvkjEscHW_ZAekUzk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fvWEsnwEE-mwZWcK4a7xbwlsFpwcErqBBmN2e2K9twM=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazingChat.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingChat.Shared.pdb.br"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\JVOXh4T3HO4fJ28r_WFgyAUmGWiLClygoTJAhubcMGo=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nSbkEexFgEQwwNlx6x-plFhPb4dIM97PYhchpFF7jdU=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v_qC_TnQOShxR-jXMOy6Qg4pECzcQ88sYU_o2b_Wqbw=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8eoS0kGuyZ2oY-04LRs7AQJMbwh3TaSyf5sDRuS75tw=.hash",
       "Source": "C:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

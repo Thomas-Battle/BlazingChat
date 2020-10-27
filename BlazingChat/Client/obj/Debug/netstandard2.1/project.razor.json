@@ -8,55 +8,154 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1188126826,
+        "HashCode": -683249055,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Shared.SurveyPrompt",
+        "Name": "BlazingChat.Client.Pages.Chat",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
+            "TagName": "Chat"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
+            "Name": "ContactId",
+            "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "ContactId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazingChat.Client.Pages.Chat"
         }
       },
       {
-        "HashCode": 1447067863,
+        "HashCode": -1012548692,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Shared.SurveyPrompt",
+        "Name": "BlazingChat.Client.Pages.Chat",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazingChat.Client.Shared.SurveyPrompt"
+            "TagName": "BlazingChat.Client.Pages.Chat"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
+            "Name": "ContactId",
+            "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "ContactId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazingChat.Client.Pages.Chat",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -188952390,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Contacts",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Contacts"
+        }
+      },
+      {
+        "HashCode": -2031953318,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Contacts",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingChat.Client.Pages.Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Contacts",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1929312963,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Profile",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Profile"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Profile"
+        }
+      },
+      {
+        "HashCode": -871090574,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Profile",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingChat.Client.Pages.Profile"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Profile",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1407485994,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Settings",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Settings"
+        }
+      },
+      {
+        "HashCode": 1760687980,
+        "Kind": "Components.Component",
+        "Name": "BlazingChat.Client.Pages.Settings",
+        "AssemblyName": "BlazingChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazingChat.Client.Pages.Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazingChat.Client.Pages.Settings",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -190,134 +289,55 @@
         }
       },
       {
-        "HashCode": -353904886,
+        "HashCode": 1188126826,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.App",
+        "Name": "BlazingChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.App"
+          "Common.TypeName": "BlazingChat.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 2076890029,
+        "HashCode": 1447067863,
         "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.App",
+        "Name": "BlazingChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "BlazingChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazingChat.Client.App"
+            "TagName": "BlazingChat.Client.Shared.SurveyPrompt"
           }
         ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -188952390,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Contacts",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
+        "BoundAttributes": [
           {
-            "TagName": "Contacts"
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Contacts"
-        }
-      },
-      {
-        "HashCode": -2031953318,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Contacts",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazingChat.Client.Pages.Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Contacts",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1929312963,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Profile",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Profile"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Profile"
-        }
-      },
-      {
-        "HashCode": -871090574,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Profile",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazingChat.Client.Pages.Profile"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Profile",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1407485994,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Settings",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Settings"
-        }
-      },
-      {
-        "HashCode": 1760687980,
-        "Kind": "Components.Component",
-        "Name": "BlazingChat.Client.Pages.Settings",
-        "AssemblyName": "BlazingChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazingChat.Client.Pages.Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazingChat.Client.Pages.Settings",
+          "Common.TypeName": "BlazingChat.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11804,6 +11824,11 @@
     {
       "FilePath": "c:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Dell\\source\\Repos\\BlazingChat\\BlazingChat\\Client\\Pages\\Chat.razor",
+      "TargetPath": "Pages\\Chat.razor",
       "FileKind": "component"
     },
     {
